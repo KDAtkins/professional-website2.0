@@ -1,0 +1,9 @@
+
+.DS_Store
+/.idea
+/vendor
+/composer.phar
+/.htaccess
+
+# ignore sensitive email config data!!!
+**/php/mail-config.ph
