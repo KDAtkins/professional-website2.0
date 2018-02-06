@@ -12,6 +12,7 @@
 		<title>TBD</title>
 	</head>
 	<body>
+
 		<!-- Navbar
 		Title Link: TBD
 		Link-0: Home
@@ -21,12 +22,24 @@
 		-->
 
 		<!-- Home -->
+		<div id="home">
+
+		</div>
 
 		<!-- About -->
+		<div id="about">
+
+		</div>
 
 		<!-- Portfolio -->
+		<div id="portfolio">
+
+		</div>
 
 		<!-- Contact -->
+		<div id="contact">
+
+		</div>
 
 	</body>
 	<footer>
